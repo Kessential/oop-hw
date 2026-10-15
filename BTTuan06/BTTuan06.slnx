@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GeoGebraApp/GeoGebraApp.csproj" />
+  <Project Path="GeoLib2D/GeoLib2D.csproj" />
+</Solution>

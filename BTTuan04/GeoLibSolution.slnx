@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GeoLibApp/GeoLibApp.csproj">
+    <BuildDependency Project="GeoLib/GeoLib.csproj" />
+  </Project>
+  <Project Path="GeoLib/GeoLib.csproj" />
+</Solution>

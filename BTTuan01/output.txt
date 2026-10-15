@@ -1,0 +1,219 @@
+
+=========================================================
+   BAI TAP TUAN 01 - LAB 02: STATEMENT, OPERATOR, ARRAY   
+=========================================================
+  1. Bai 01: If statement - Giai phuong trinh bac 2
+  2. Bai 02: Switch statement - Kiem tra nguyen am/phu am
+  3. Bai 03: For statement - Uoc so nho nhat
+  4. Bai 04: Foreach statement - Mang so ngau nhien & trung binh
+  5. Bai 05: Array - Tham chieu mang (reference type)
+  6. Bai 06: Reverse Array - Dao nguoc mang
+  7. Bai 07: Multi-dimensional Array - Mang 2 chieu
+  8. Bai 08: Array Class - IndexOf, Sort, Reverse
+  9. Bai 09: Array of Object - Mang doi tuong Employee
+ 10. Bai 10: SIN Validator (Do it yourself)
+ 11. Chay tat ca cac bai (1 -> 10)
+  0. Thoat chuong trinh
+=========================================================
+Vui long chon bai can chay (0 - 11): 
+=== BAI 01: IF STATEMENT - GIAI VA BIEN LUAN PHUONG TRINH BAC 2 ===
+(a, b, c la so thuc, ho tro moi truong hop cua a, b, c)
+a= b= c= Phuong trinh co vo so nghiem (dung voi moi x)
+
+=========================================================
+   BAI TAP TUAN 01 - LAB 02: STATEMENT, OPERATOR, ARRAY   
+=========================================================
+  1. Bai 01: If statement - Giai phuong trinh bac 2
+  2. Bai 02: Switch statement - Kiem tra nguyen am/phu am
+  3. Bai 03: For statement - Uoc so nho nhat
+  4. Bai 04: Foreach statement - Mang so ngau nhien & trung binh
+  5. Bai 05: Array - Tham chieu mang (reference type)
+  6. Bai 06: Reverse Array - Dao nguoc mang
+  7. Bai 07: Multi-dimensional Array - Mang 2 chieu
+  8. Bai 08: Array Class - IndexOf, Sort, Reverse
+  9. Bai 09: Array of Object - Mang doi tuong Employee
+ 10. Bai 10: SIN Validator (Do it yourself)
+ 11. Chay tat ca cac bai (1 -> 10)
+  0. Thoat chuong trinh
+=========================================================
+Vui long chon bai can chay (0 - 11): 
+=== BAI 01: IF STATEMENT - GIAI VA BIEN LUAN PHUONG TRINH BAC 2 ===
+(a, b, c la so thuc, ho tro moi truong hop cua a, b, c)
+a= b= c= Phuong trinh vo nghiem
+
+=========================================================
+   BAI TAP TUAN 01 - LAB 02: STATEMENT, OPERATOR, ARRAY   
+=========================================================
+  1. Bai 01: If statement - Giai phuong trinh bac 2
+  2. Bai 02: Switch statement - Kiem tra nguyen am/phu am
+  3. Bai 03: For statement - Uoc so nho nhat
+  4. Bai 04: Foreach statement - Mang so ngau nhien & trung binh
+  5. Bai 05: Array - Tham chieu mang (reference type)
+  6. Bai 06: Reverse Array - Dao nguoc mang
+  7. Bai 07: Multi-dimensional Array - Mang 2 chieu
+  8. Bai 08: Array Class - IndexOf, Sort, Reverse
+  9. Bai 09: Array of Object - Mang doi tuong Employee
+ 10. Bai 10: SIN Validator (Do it yourself)
+ 11. Chay tat ca cac bai (1 -> 10)
+  0. Thoat chuong trinh
+=========================================================
+Vui long chon bai can chay (0 - 11): 
+=== BAI 01: IF STATEMENT - GIAI VA BIEN LUAN PHUONG TRINH BAC 2 ===
+(a, b, c la so thuc, ho tro moi truong hop cua a, b, c)
+a= b= c= Phuong trinh bac nhat co 1 nghiem: x = 2
+
+=========================================================
+   BAI TAP TUAN 01 - LAB 02: STATEMENT, OPERATOR, ARRAY   
+=========================================================
+  1. Bai 01: If statement - Giai phuong trinh bac 2
+  2. Bai 02: Switch statement - Kiem tra nguyen am/phu am
+  3. Bai 03: For statement - Uoc so nho nhat
+  4. Bai 04: Foreach statement - Mang so ngau nhien & trung binh
+  5. Bai 05: Array - Tham chieu mang (reference type)
+  6. Bai 06: Reverse Array - Dao nguoc mang
+  7. Bai 07: Multi-dimensional Array - Mang 2 chieu
+  8. Bai 08: Array Class - IndexOf, Sort, Reverse
+  9. Bai 09: Array of Object - Mang doi tuong Employee
+ 10. Bai 10: SIN Validator (Do it yourself)
+ 11. Chay tat ca cac bai (1 -> 10)
+  0. Thoat chuong trinh
+=========================================================
+Vui long chon bai can chay (0 - 11): 
+=== BAI 01: IF STATEMENT - GIAI VA BIEN LUAN PHUONG TRINH BAC 2 ===
+(a, b, c la so thuc, ho tro moi truong hop cua a, b, c)
+a= b= c= Phuong trinh co nghiem kep
+x1=x2=-1
+
+=========================================================
+   BAI TAP TUAN 01 - LAB 02: STATEMENT, OPERATOR, ARRAY   
+=========================================================
+  1. Bai 01: If statement - Giai phuong trinh bac 2
+  2. Bai 02: Switch statement - Kiem tra nguyen am/phu am
+  3. Bai 03: For statement - Uoc so nho nhat
+  4. Bai 04: Foreach statement - Mang so ngau nhien & trung binh
+  5. Bai 05: Array - Tham chieu mang (reference type)
+  6. Bai 06: Reverse Array - Dao nguoc mang
+  7. Bai 07: Multi-dimensional Array - Mang 2 chieu
+  8. Bai 08: Array Class - IndexOf, Sort, Reverse
+  9. Bai 09: Array of Object - Mang doi tuong Employee
+ 10. Bai 10: SIN Validator (Do it yourself)
+ 11. Chay tat ca cac bai (1 -> 10)
+  0. Thoat chuong trinh
+=========================================================
+Vui long chon bai can chay (0 - 11): 
+=== BAI 01: IF STATEMENT - GIAI VA BIEN LUAN PHUONG TRINH BAC 2 ===
+(a, b, c la so thuc, ho tro moi truong hop cua a, b, c)
+a= b= c= Phuong trinh co 2 nghiem
+x1=2
+x2=1
+
+=========================================================
+   BAI TAP TUAN 01 - LAB 02: STATEMENT, OPERATOR, ARRAY   
+=========================================================
+  1. Bai 01: If statement - Giai phuong trinh bac 2
+  2. Bai 02: Switch statement - Kiem tra nguyen am/phu am
+  3. Bai 03: For statement - Uoc so nho nhat
+  4. Bai 04: Foreach statement - Mang so ngau nhien & trung binh
+  5. Bai 05: Array - Tham chieu mang (reference type)
+  6. Bai 06: Reverse Array - Dao nguoc mang
+  7. Bai 07: Multi-dimensional Array - Mang 2 chieu
+  8. Bai 08: Array Class - IndexOf, Sort, Reverse
+  9. Bai 09: Array of Object - Mang doi tuong Employee
+ 10. Bai 10: SIN Validator (Do it yourself)
+ 11. Chay tat ca cac bai (1 -> 10)
+  0. Thoat chuong trinh
+=========================================================
+Vui long chon bai can chay (0 - 11): 
+=== BAI 02: SWITCH STATEMENT - NGUYEN AM / PHU AM TIENG VIET ===
+Nhap mot ky tu:
+ă la nguyen am.
+
+=========================================================
+   BAI TAP TUAN 01 - LAB 02: STATEMENT, OPERATOR, ARRAY   
+=========================================================
+  1. Bai 01: If statement - Giai phuong trinh bac 2
+  2. Bai 02: Switch statement - Kiem tra nguyen am/phu am
+  3. Bai 03: For statement - Uoc so nho nhat
+  4. Bai 04: Foreach statement - Mang so ngau nhien & trung binh
+  5. Bai 05: Array - Tham chieu mang (reference type)
+  6. Bai 06: Reverse Array - Dao nguoc mang
+  7. Bai 07: Multi-dimensional Array - Mang 2 chieu
+  8. Bai 08: Array Class - IndexOf, Sort, Reverse
+  9. Bai 09: Array of Object - Mang doi tuong Employee
+ 10. Bai 10: SIN Validator (Do it yourself)
+ 11. Chay tat ca cac bai (1 -> 10)
+  0. Thoat chuong trinh
+=========================================================
+Vui long chon bai can chay (0 - 11): 
+=== BAI 02: SWITCH STATEMENT - NGUYEN AM / PHU AM TIENG VIET ===
+Nhap mot ky tu:
+b la phu am.
+
+=========================================================
+   BAI TAP TUAN 01 - LAB 02: STATEMENT, OPERATOR, ARRAY   
+=========================================================
+  1. Bai 01: If statement - Giai phuong trinh bac 2
+  2. Bai 02: Switch statement - Kiem tra nguyen am/phu am
+  3. Bai 03: For statement - Uoc so nho nhat
+  4. Bai 04: Foreach statement - Mang so ngau nhien & trung binh
+  5. Bai 05: Array - Tham chieu mang (reference type)
+  6. Bai 06: Reverse Array - Dao nguoc mang
+  7. Bai 07: Multi-dimensional Array - Mang 2 chieu
+  8. Bai 08: Array Class - IndexOf, Sort, Reverse
+  9. Bai 09: Array of Object - Mang doi tuong Employee
+ 10. Bai 10: SIN Validator (Do it yourself)
+ 11. Chay tat ca cac bai (1 -> 10)
+  0. Thoat chuong trinh
+=========================================================
+Vui long chon bai can chay (0 - 11): 
+=== BAI 02: SWITCH STATEMENT - NGUYEN AM / PHU AM TIENG VIET ===
+Nhap mot ky tu:
+Y la nguyen am.
+
+=========================================================
+   BAI TAP TUAN 01 - LAB 02: STATEMENT, OPERATOR, ARRAY   
+=========================================================
+  1. Bai 01: If statement - Giai phuong trinh bac 2
+  2. Bai 02: Switch statement - Kiem tra nguyen am/phu am
+  3. Bai 03: For statement - Uoc so nho nhat
+  4. Bai 04: Foreach statement - Mang so ngau nhien & trung binh
+  5. Bai 05: Array - Tham chieu mang (reference type)
+  6. Bai 06: Reverse Array - Dao nguoc mang
+  7. Bai 07: Multi-dimensional Array - Mang 2 chieu
+  8. Bai 08: Array Class - IndexOf, Sort, Reverse
+  9. Bai 09: Array of Object - Mang doi tuong Employee
+ 10. Bai 10: SIN Validator (Do it yourself)
+ 11. Chay tat ca cac bai (1 -> 10)
+  0. Thoat chuong trinh
+=========================================================
+Vui long chon bai can chay (0 - 11): 
+=== BAI 03: FOR STATEMENT - UOC SO NHO NHAT ===
+Nhap uoc so thu 4 (thay cho 7): Smallest factor of 2 is 2.
+Smallest factor of 3 is 3.
+Smallest factor of 4 is 2.
+Smallest factor of 5 is 5.
+Smallest factor of 6 is 2.
+7 is not divisible by 2, 3, 5, or 11.
+Smallest factor of 8 is 2.
+Smallest factor of 9 is 3.
+Smallest factor of 10 is 2.
+Smallest factor of 11 is 11.
+
+=========================================================
+   BAI TAP TUAN 01 - LAB 02: STATEMENT, OPERATOR, ARRAY   
+=========================================================
+  1. Bai 01: If statement - Giai phuong trinh bac 2
+  2. Bai 02: Switch statement - Kiem tra nguyen am/phu am
+  3. Bai 03: For statement - Uoc so nho nhat
+  4. Bai 04: Foreach statement - Mang so ngau nhien & trung binh
+  5. Bai 05: Array - Tham chieu mang (reference type)
+  6. Bai 06: Reverse Array - Dao nguoc mang
+  7. Bai 07: Multi-dimensional Array - Mang 2 chieu
+  8. Bai 08: Array Class - IndexOf, Sort, Reverse
+  9. Bai 09: Array of Object - Mang doi tuong Employee
+ 10. Bai 10: SIN Validator (Do it yourself)
+ 11. Chay tat ca cac bai (1 -> 10)
+  0. Thoat chuong trinh
+=========================================================
+Vui long chon bai can chay (0 - 11): 
+Tam biet!
